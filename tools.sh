@@ -16,3 +16,8 @@ sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install psmisc -y
 sudo apt-get install pwgen -y
+sudo apt-get install libpqxx-dev -y
+sudo apt-get install apache2 -y
+sudo apt-get install php -y
+sudo apt-get install php-pgsql -y
+sudo apt-get install libapache2-mod-php -y
